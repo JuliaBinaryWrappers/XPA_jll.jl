@@ -1,6 +1,6 @@
 name = "XPA_jll"
 uuid = "9dbca590-e19a-5566-89a8-3997bfd21c58"
-version = "2.1.19+0"
+version = "2.1.20+0"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
