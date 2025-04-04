@@ -1,143 +1,160 @@
 [[XPA]]
 arch = "aarch64"
-git-tree-sha1 = "b0ec177c1c8b5f42deea20ca8eb8e5c365ddf548"
+git-tree-sha1 = "8592596584c27e2f7d3d14ae24f37c3eb5215819"
 os = "macos"
 
     [[XPA.download]]
-    sha256 = "ccf4712ded51dfe31a5a62c6fab358b544b001b98378dfbd4bba2585e9bd0866"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.aarch64-apple-darwin.tar.gz"
+    sha256 = "5875b42af1222bfcfa2ed4f6bf7d8b760214a56b4fd05877781345446881ae5f"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.aarch64-apple-darwin.tar.gz"
 [[XPA]]
 arch = "aarch64"
-git-tree-sha1 = "c46c6aa8dfe9c7f5b552a8d0f7bd2ba68c9974f1"
+git-tree-sha1 = "d2480e446913001fbd576af26dd613930e9c3cc2"
 libc = "glibc"
 os = "linux"
 
     [[XPA.download]]
-    sha256 = "5e3c34f0c38c5e1f00d5636d8c7afabf1c106d1e6df39f2a1b897c9f4730e6e8"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.aarch64-linux-gnu.tar.gz"
+    sha256 = "bc7bbde3ab296a6af9a8fc1dbf524373f58ba3c018fc078a2959e95dc5a8bc5f"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.aarch64-linux-gnu.tar.gz"
 [[XPA]]
 arch = "aarch64"
-git-tree-sha1 = "4cf424e1b5128d768c5ca2276df3cebd90fa064b"
+git-tree-sha1 = "51d71f62640ae30dc9f51538df3002bb99e5e46b"
 libc = "musl"
 os = "linux"
 
     [[XPA.download]]
-    sha256 = "a61f30c860e30d382c03151a8f8705c6596140da56a8fb189399dbbff621214d"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.aarch64-linux-musl.tar.gz"
+    sha256 = "41443b7329d20afca13879ec21ae2dea1324c5ff003e1db414c1581c11357da6"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.aarch64-linux-musl.tar.gz"
 [[XPA]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "efa8b22dbfe9544bbcd297ae78342fde193f25b2"
-libc = "glibc"
-os = "linux"
-
-    [[XPA.download]]
-    sha256 = "621a60a866b3e06aa81e7c0188c333cc5c1fe5682a8844103cf18cd6006f9b82"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.armv6l-linux-gnueabihf.tar.gz"
-[[XPA]]
-arch = "armv6l"
-call_abi = "eabihf"
-git-tree-sha1 = "e6fee7dd104b46d1b2579da3709c57066218bbba"
-libc = "musl"
-os = "linux"
-
-    [[XPA.download]]
-    sha256 = "432e95ec17554dcd71cd9ba20d3eea270807a90d0f0497f688d95f9015726ac2"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.armv6l-linux-musleabihf.tar.gz"
-[[XPA]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "a9aa074a82b5d4fa3d5ee87c57642b1bab2f380a"
-libc = "glibc"
-os = "linux"
-
-    [[XPA.download]]
-    sha256 = "ed42242452908bcaded6f68968f66aac3839c0d51d19a55449bbb5898190dae4"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.armv7l-linux-gnueabihf.tar.gz"
-[[XPA]]
-arch = "armv7l"
-call_abi = "eabihf"
-git-tree-sha1 = "b4b4043831b2d395fc24cd0a92da29c2a7c09770"
-libc = "musl"
-os = "linux"
-
-    [[XPA.download]]
-    sha256 = "826ecb405fe341689290ec2609a6ff2e6977a5f886cdf3ceb1242c26f56325fd"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.armv7l-linux-musleabihf.tar.gz"
-[[XPA]]
-arch = "i686"
-git-tree-sha1 = "778417241585fbf49caf9229be8b3ccb8156fbab"
-libc = "glibc"
-os = "linux"
-
-    [[XPA.download]]
-    sha256 = "38038d69c66c9dc09ded903bce4e39d317ac1d8cc33bea09cc629da510c2d3da"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.i686-linux-gnu.tar.gz"
-[[XPA]]
-arch = "i686"
-git-tree-sha1 = "0f444c065f27bac2ebf627d7ddf5dc1a6435186a"
-libc = "musl"
-os = "linux"
-
-    [[XPA.download]]
-    sha256 = "1fdafdedc1772aefacd35337a916336e8c49b06cfa39ac5b02de843a63bcdee2"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.i686-linux-musl.tar.gz"
-[[XPA]]
-arch = "i686"
-git-tree-sha1 = "74549501f47b126c2c29e9d042fd5bb14804deae"
-os = "windows"
-
-    [[XPA.download]]
-    sha256 = "10c16319ec66855f4eb66bb59d1163266d86d6ac0646d8330acb0133b4743ecb"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.i686-w64-mingw32.tar.gz"
-[[XPA]]
-arch = "powerpc64le"
-git-tree-sha1 = "66793648e76eca7b55fe30530e874bf1f57c9db7"
-libc = "glibc"
-os = "linux"
-
-    [[XPA.download]]
-    sha256 = "04fba69684cf61a92f305655cc96624d358bba618c078bb7a15b4e1bdadef91c"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.powerpc64le-linux-gnu.tar.gz"
-[[XPA]]
-arch = "x86_64"
-git-tree-sha1 = "f5f227a0ff7f5250f691e3f778beed9b620c6394"
-os = "macos"
-
-    [[XPA.download]]
-    sha256 = "e131d526a56d60fb776d140be1eaeae0a2528d7e7dc06dcf3fbd58589f77e7c7"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.x86_64-apple-darwin.tar.gz"
-[[XPA]]
-arch = "x86_64"
-git-tree-sha1 = "7adad808755353464bb65439e43b0cf984db0a73"
-libc = "glibc"
-os = "linux"
-
-    [[XPA.download]]
-    sha256 = "3aaa144e3ff08fcf90a849d3c9234cf75b11e7fae0d5b40ac7a00b760bc34bda"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.x86_64-linux-gnu.tar.gz"
-[[XPA]]
-arch = "x86_64"
-git-tree-sha1 = "424eb9a8076d459598d5c39f310bbaff33ae17b2"
-libc = "musl"
-os = "linux"
-
-    [[XPA.download]]
-    sha256 = "98fab48bfaf45b9fb6417fd58014142b5bc24bc1dee45de6f03f6464b3410e59"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.x86_64-linux-musl.tar.gz"
-[[XPA]]
-arch = "x86_64"
-git-tree-sha1 = "ce0e4d9b39ddec1d8f8c08005c2610ee845cb436"
+arch = "aarch64"
+git-tree-sha1 = "de7b7a82584997692d7521ea0424b1751590cb5e"
 os = "freebsd"
 
     [[XPA.download]]
-    sha256 = "9b08fb35428a82349583ce70f4d840382e2661563100c551d97948771289e700"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "a232e77f15da691dd82b828d24a4cb77f5ad6d87d89b542d924d4d30f737960a"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.aarch64-unknown-freebsd.tar.gz"
 [[XPA]]
-arch = "x86_64"
-git-tree-sha1 = "03f8563cdd1b142ce6e537b2c6ed9f3d79c35b79"
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "14733826dd1f6b5bc574709169166a4309d115b4"
+libc = "glibc"
+os = "linux"
+
+    [[XPA.download]]
+    sha256 = "5707a7636dc5fe16c81f5d91bf1ba41881d65503ce7485f697d5163c5df6e5fb"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.armv6l-linux-gnueabihf.tar.gz"
+[[XPA]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "64e17ef33fde12a8c5722d5d5589555e96151bc3"
+libc = "musl"
+os = "linux"
+
+    [[XPA.download]]
+    sha256 = "d583dc549e467a4fd92caea1e0fec2119d5abce13294c51e039166f7c57ca418"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.armv6l-linux-musleabihf.tar.gz"
+[[XPA]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "db9c3bc42edda927eb9561757017a502c4baa63a"
+libc = "glibc"
+os = "linux"
+
+    [[XPA.download]]
+    sha256 = "54f6288f6d8911a3af4b239237bc1270953c06cec48578f85fdd1445748d0be0"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.armv7l-linux-gnueabihf.tar.gz"
+[[XPA]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "53945bd7202ff55dd37ea49c4ddcf05327c85485"
+libc = "musl"
+os = "linux"
+
+    [[XPA.download]]
+    sha256 = "7ed89811b76c4c880b5275bfb0af4ee3bdd409c393bf7a5bac40e9a1915eaa2c"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.armv7l-linux-musleabihf.tar.gz"
+[[XPA]]
+arch = "i686"
+git-tree-sha1 = "80fcac20bdd4ffe0979d4e41d6d28a6b924a38c2"
+libc = "glibc"
+os = "linux"
+
+    [[XPA.download]]
+    sha256 = "5ae1445cd121abeda9c27ec55e0e9d0d4cbe7873fe5e06b214bb2372a6cd8bb3"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.i686-linux-gnu.tar.gz"
+[[XPA]]
+arch = "i686"
+git-tree-sha1 = "0adca8401ab4e4e79f6f22835c4ea9c191ac5ea9"
+libc = "musl"
+os = "linux"
+
+    [[XPA.download]]
+    sha256 = "aac8426597d15bff2f505a9e46bfc1ee5eabacddbe27911577fdd54d8c3f450f"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.i686-linux-musl.tar.gz"
+[[XPA]]
+arch = "i686"
+git-tree-sha1 = "11ab3d9d02cd509b8480ca14fbd8311cc13d1aa9"
 os = "windows"
 
     [[XPA.download]]
-    sha256 = "ffb519ea9a6a841780bbd395000f57a8f4ceb1f5ec2538f7700e0443ed84216f"
-    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.21+0/XPA.v2.1.21.x86_64-w64-mingw32.tar.gz"
+    sha256 = "8ce7985ed1984b3603f316a4be1b1f92740f5c3ea2c59f667a4428965795138a"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.i686-w64-mingw32.tar.gz"
+[[XPA]]
+arch = "powerpc64le"
+git-tree-sha1 = "558c5039f122476b252c92794d9cababb592641e"
+libc = "glibc"
+os = "linux"
+
+    [[XPA.download]]
+    sha256 = "f2900b5ebe24272bef5b42d9cad1246e0c942d79b2473b2045a9bc328da40a8e"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.powerpc64le-linux-gnu.tar.gz"
+[[XPA]]
+arch = "riscv64"
+git-tree-sha1 = "23ed39d753c35d68a42b49a548b5f006db695881"
+libc = "glibc"
+os = "linux"
+
+    [[XPA.download]]
+    sha256 = "d2ba384d76337cc108f7de7c1c6618a384e48ebfd32e12f39b04c2a354d4a9dd"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.riscv64-linux-gnu.tar.gz"
+[[XPA]]
+arch = "x86_64"
+git-tree-sha1 = "7d31594f9573edf3064657b1f4b20b6eb61f318b"
+os = "macos"
+
+    [[XPA.download]]
+    sha256 = "07257523126d369ce8b1099cf6d751883f34f2075b1d58aeb9014daeb91625bf"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.x86_64-apple-darwin.tar.gz"
+[[XPA]]
+arch = "x86_64"
+git-tree-sha1 = "5c7a79b9b291b1c21166a6515014ba00b261ed00"
+libc = "glibc"
+os = "linux"
+
+    [[XPA.download]]
+    sha256 = "4d11fc33454ece63651a9c37affdf1059078bbb0cf20d4d436d5ce9a27d382b3"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.x86_64-linux-gnu.tar.gz"
+[[XPA]]
+arch = "x86_64"
+git-tree-sha1 = "16dff3af52da404e04c783c4be93f237fdb19add"
+libc = "musl"
+os = "linux"
+
+    [[XPA.download]]
+    sha256 = "2e0568b379da1e18cb6dfa4934d6a11b0eef91853374d2f6220c733615f919a5"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.x86_64-linux-musl.tar.gz"
+[[XPA]]
+arch = "x86_64"
+git-tree-sha1 = "b343a950055883d1534b6baa1085a92441f32ecd"
+os = "freebsd"
+
+    [[XPA.download]]
+    sha256 = "3fe586f05f75ca20c1aaf2d8e7e62c52044e3d65df350c7805f4d57081906f58"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.x86_64-unknown-freebsd.tar.gz"
+[[XPA]]
+arch = "x86_64"
+git-tree-sha1 = "fd13fc6d3226cf005c28045e00bba2ac1a63fdd5"
+os = "windows"
+
+    [[XPA.download]]
+    sha256 = "d548667712b2c134580e98ae6b7da92074dd103f5d7b48186feab61a84a85835"
+    url = "https://github.com/JuliaBinaryWrappers/XPA_jll.jl/releases/download/XPA-v2.1.22+0/XPA.v2.1.22.x86_64-w64-mingw32.tar.gz"
